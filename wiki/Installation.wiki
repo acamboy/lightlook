@@ -22,13 +22,9 @@ It must be done in 3steps:
  * in the VBA editor, look for *RootFolder* in the text, and change its value to the path of the folder
 
 
-*Specify sent folder*
-
-You'll also need to specify how your outbox folder is named in your language: look for SENT_FOLDER_NAME in the macro text in VBA editor, and change it to that name; to know the exact name of the folder, just select a message in the folder itself, and start the macro named *ShowFolderName*
-
-
-
 Now the macro is installed on your system.
-To test if it is properly working, close "VBA editor" window and get back to outlook, press ALT+F8: you should see listed macro "StripAttachments_Explorer". 
+To test if it is properly working, close "VBA editor" window and get back to outlook, press ALT+F8: you should see listed macros "StripAttachments_Explorer" and "ShowFolderName". 
+
+A final step is required: you have to *specify how outbox folder is named* in your language: look for SENT_FOLDER_NAME in the macro text in VBA editor, and change it to that name; to know the exact name of the folder, just select a message in the folder itself, and start the macro named *ShowFolderName*
 
 See dedicated help page to figure out how to use the macro --> [Usage instructions]
