@@ -1,0 +1,21 @@
+#summary Installation instructions
+
+To install the macro:
+It must be done in two steps:
+
+Module installation:
+* download latest version of modules1.bas from donwload page
+* start outlook
+* press ALT+F11 to open "VBA editor"
+* press CTRL+R to show project panels on the left (if not already visible)
+* right click on *modules* and select *import from file*
+* load module1.bas
+
+Form installation:
+* right click on *form* and select *import from file*
+* load frmProgress.frm file
+
+Now the macro is installed on your system.
+To test if it is properly working, close "VBA editor" window and get back to outlook, press ALT+F8: you should see listed macro "StripAttachments_Explorer". 
+
+See dedicated help page to figure out how to use the macro --> [Usage instructions]
