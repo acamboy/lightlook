@@ -10,13 +10,12 @@ It must be done in 3steps:
  * press CTRL+R to show project panels on the left (if not already visible)
  * right click on *modules* and select *import from file*
 http://lightlook.googlecode.com/files/outlook-vba-module.JPG
- * load module1.bas - http://lightlook.googlecode.com/files/Modulo1.bas
+ * load module1.bas  (download page: http://code.google.com/p/lightlook/downloads/list )
 
 
 *Form installation*
  * right click on *form* and select *import from file*
- * load frmProgress.frm file - http://lightlook.googlecode.com/files/frmProgress.frm
-
+ * load frmProgress.frm file (download page: http://code.google.com/p/lightlook/downloads/list )
 
 
 *Folder creation*
