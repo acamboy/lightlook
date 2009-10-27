@@ -16,12 +16,7 @@ http://lightlook.googlecode.com/files/outlook-vba-module.JPG
 *Form installation*
  * right click on *form* and select *import from file*
  * load frmProgress.frm file
- * if you want to create the form by yourself, select INSERT instead:
-http://lightlook.googlecode.com/files/outlook-add-form.JPG
- * please remember that form must have properties shown in picture below:
-http://lightlook.googlecode.com/files/outlook-form.JPG
 
-It must contain 4 labels: two are used to simulate progress bars, two to display percentage.
 
 
 *Folder creation*
@@ -35,3 +30,13 @@ To test if it is properly working, close "VBA editor" window and get back to out
 A final step is required: you have to *specify how outbox folder is named* in your language: look for SENT_FOLDER_NAME in the macro text in VBA editor, and change it to that name; to know the exact name of the folder, just select a message in the folder itself, and start the macro named *ShowFolderName*
 
 See dedicated help page to figure out how to use the macro --> [Usage instructions]
+
+
+--------------
+For advanced users:
+ * if you want to create the form by yourself, select INSERT instead:
+http://lightlook.googlecode.com/files/outlook-add-form.JPG
+ * please remember that form must have properties shown in picture below:
+http://lightlook.googlecode.com/files/outlook-form.JPG
+
+It must contain 4 labels: two are used to simulate progress bars, two to display percentage.
