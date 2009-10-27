@@ -9,12 +9,19 @@ It must be done in 3steps:
  * press ALT+F11 to open "VBA editor"
  * press CTRL+R to show project panels on the left (if not already visible)
  * right click on *modules* and select *import from file*
+http://lightlook.googlecode.com/files/outlook-vba-module.JPG
  * load module1.bas
 
 
 *Form installation*
  * right click on *form* and select *import from file*
  * load frmProgress.frm file
+ * if you want to create the form by yourself, select INSERT instead:
+http://lightlook.googlecode.com/files/outlook-add-form.JPG
+ * please remember that form must have properties shown in picture below:
+http://lightlook.googlecode.com/files/outlook-form.JPG
+
+It must contain 4 labels: two are used to simulate progress bars, two to display percentage.
 
 
 *Folder creation*
