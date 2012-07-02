@@ -19,8 +19,9 @@ http://lightlook.googlecode.com/files/outlook-vba-module.JPG
 
 
 *Folder creation*
- * create on your hard disk a folder which will contain all your attachments
+ * create on your hard disk a folder which will contain all your attachments, for example "C:\OutlookAttachments\2012"
  * in the VBA editor, look for *RootFolder* in the text, and change its value to the path of the folder
+ * Create folder "config" inside  your "C:\OutlookAttachments\2012" folder, and copy or create in it a text file named "Attachments Removed" with no file extension.'''
 
 
 Now the macro is installed on your system.
