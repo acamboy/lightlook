@@ -1,0 +1,13 @@
+# Introduction #
+
+**This page is for "interactive" help among users; for installation instructions and usage instructions see dedicated wiki pages.**
+
+Here you can ask other users for help on using the macro, or give your help if you are just skilled on using it. To suggest improvements, please use Improvements page.
+
+
+# Help topics #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

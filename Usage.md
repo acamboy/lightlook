@@ -1,0 +1,3 @@
+Once you installed the macro (see [Installation](Installation.md)), you can run it at any moment by selecting it from macros list (ALT+F8 to view it); before starting the macro, you must select the message(s) it will process. You also must create a proper folder on your hard disk before using the macro the first time, and you must be sure that macro properly points to that folder (see [Installation](Installation.md)).
+
+You can also add a button to the toolbar (see [Installation](Installation.md)) to start the macro at a click of your mouse.
